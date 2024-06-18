@@ -472,5 +472,4 @@ void Opening::Conclusion() {
     cout << "感謝你遊玩這個遊戲！" << endl;
     system("pause");
     exit(0);
-    cout << endl;
 }
